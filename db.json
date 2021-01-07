@@ -106,7 +106,7 @@
         {
           "id": 331,
           "product_id": 33,
-          "sku": "PIZZA-TIME",
+          "sku": "PIZZA-TIMEvar",
           "upc": null,
           "sort_order": 0,
           "price": 9.99,
