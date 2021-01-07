@@ -80,7 +80,7 @@
         {
           "id": 221,
           "product_id": 22,
-          "sku": "NIN-SWITCHvar",
+          "sku": "NIN-SWITCHvar2",
           "upc": null,
           "sort_order": 0,
           "price": 399,
@@ -92,7 +92,7 @@
         }
       ],
       "price": 399,
-      "sku": "NIN-SWITCHprod",
+      "sku": "NIN-SWITCHprod2",
       "upc": null
     },
     {
