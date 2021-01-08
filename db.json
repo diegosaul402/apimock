@@ -123,6 +123,33 @@
       "price": 9.99,
       "sku": "PIZZA-TIME",
       "upc": null
+    },
+    {
+      "id": 44,
+      "name": "producto sin categoria",
+      "description": "we have always time for pizza",
+      "image_url": "https://square-production.s3.amazonaws.com/files/510bf3388c37739160afde65b3ce9701da099af0/original.jpeg",
+      "image_updated_at": "2020-01-06T20:05:59.327Z",
+      "categories": [],
+      "inventory_tracking": "none",
+      "variants": [
+        {
+          "id": 444,
+          "product_id": 44,
+          "sku": "no-cat-var",
+          "upc": null,
+          "sort_order": 0,
+          "price": 9.99,
+          "inventory_level": 7,
+          "option_values": [
+            { "label": "Regular", "option_display_name": "Default" }
+          ],
+          "track_inventory": true
+        }
+      ],
+      "price": 9.99,
+      "sku": "no-cat-prod",
+      "upc": null
     }
   ]
 }
