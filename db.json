@@ -13,6 +13,7 @@
       "image_url": "https://square-production.s3.amazonaws.com/files/08f04a88a5dc11e7d0715c5186c92a076c4d0704/original.jpeg",
       "image_updated_at": "2020-08-24T21:11:23.457Z",
       "categories": [1],
+      "inventory_tracking": "variant",
       "variants": [
         {
           "id": 111,
@@ -76,6 +77,7 @@
       "image_url": "https://square-production.s3.amazonaws.com/files/56d9121bfdf38ca7fd36fec9bbe4a5b7f2d883b9/original.jpeg",
       "image_updated_at": "2019-12-09T20:50:08.526Z",
       "categories": [1],
+      "inventory_tracking": "none",
       "variants": [
         {
           "id": 221,
@@ -102,6 +104,7 @@
       "image_url": "https://square-production.s3.amazonaws.com/files/510bf3388c37739160afde65b3ce9701da099af0/original.jpeg",
       "image_updated_at": "2020-01-06T20:05:59.327Z",
       "categories": [2],
+      "inventory_tracking": "none",
       "variants": [
         {
           "id": 331,
