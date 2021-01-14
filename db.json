@@ -115,7 +115,7 @@
           "upc": null,
           "sort_order": 0,
           "price": 9.99,
-          "inventory_level": 7,
+          "inventory_level": 6,
           "option_values": [
             { "label": "Regular", "option_display_name": "Default" }
           ],
@@ -143,7 +143,7 @@
           "upc": null,
           "sort_order": 0,
           "price": 9.99,
-          "inventory_level": 7,
+          "inventory_level": 5,
           "option_values": [
             { "label": "Regular", "option_display_name": "Default" }
           ],
